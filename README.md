@@ -20,9 +20,9 @@ To run this project locally, follow these steps:
 ## Deployment
 The application is deployed and can be accessed at the following link:
 
-- **DEMO**: https://sonali-alberotisolutionsinc-blogs-app.netlify.app/blogs
+[Live DEMO] (https://sonali-alberotisolutionsinc-blogs-app.netlify.app/blogs)
   
 ## GitHub Repository
 You can find the source code of this project on GitHub:
 
-- **GitHub Repository**: https://github.com/sonalisingh30/Albearoti-Solutions-Inc_assign_Blogs_App
+[GitHub Repository] (https://github.com/sonalisingh30/Albearoti-Solutions-Inc_assign_Blogs_App)
